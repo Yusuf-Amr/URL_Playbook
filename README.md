@@ -43,7 +43,9 @@ The playbook operates through the following steps:
    - Repeat the checks for the Referer URL and assess for suspicious activity.
   
 ## Diagram
-   ![URL Playbook Diagram](https://github.com/Yusuf-Amr/URL_Playbook/blob/main/URL%20Playbook%20Diagram.jpg?raw=true)
+   ![URL Playbook Diagram](https://github.com/Yusuf-Amr/URL_Playbook/blob/main/Diagram/URL%20Playbook%20Diagram.jpg)
+   
+   ![URL Playbook Diagram](https://github.com/Yusuf-Amr/URL_Playbook/blob/main/Diagram/flow.jpg)
 
     
 ## Tools and Technologies Considered:
