@@ -7,7 +7,7 @@ I recently completed the design for a URL Playbook in Splunk Phantom SOAR. While
 
 - [Playbook Workflow](#playbook-workflow)
 - [Diagram](#diagram)
-- [Tools Used](#tools-used)
+- [Tools and Technologies Considered](#tools-and-technologies-considered)
 - [How to Use](#how-to-use)
 
 ## Playbook Workflow
@@ -48,7 +48,7 @@ The playbook operates through the following steps:
    ![URL Playbook Diagram](https://github.com/Yusuf-Amr/URL_Playbook/blob/main/Diagram/flow.jpg)
 
     
-## Tools and Technologies Considered:
+## Tools and Technologies Considered
 
 - VirusTotal
 - MetaDefender Sandbox
